@@ -1,0 +1,19 @@
+*** phase 1 - data collection ***
+- 20 days KPI - working days
+- track progress
+- one job many sample, can choose what test
+- 20 tests
+- 20 methods
+- create equipment database
+- customer database
+- create ambient parameter
+- data can be key in on-site, should support mobile platform
+- have image uploading function
+- user list - tester, technologist
+- create job -> repeated job (duplicate existing job - new job no/date)/new job
+- location onsite(gps lcoation, picture)/at tnbr
+- notification - traffic light (green < 10 |yellow > 10|red > 20
+- target date -
+- report/dashboard -> phase 2
+
+Regulatory Enviroment Science Management Information System
